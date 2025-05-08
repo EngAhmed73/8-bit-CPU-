@@ -19,7 +19,7 @@ The CPU includes the following components:
 
 ## How to Run
 1. Open the project `.circ` file in **Logisim**.
-2. Uploade the date files to the ROM (that depends in your program whether your program includes JMP operation or not )
+2. Uploade the date files to the RAM (that depends in your program whether your program includes JMP operation or not )
 3. **Click on the clock** component to simulate instruction execution.
    - Each click represents one clock cycle.
    - You can observe the CPU execution in steps through the datapath.
@@ -46,6 +46,7 @@ Example Instructions:
 - `CPU.circ` – Main Logisim circuit file
 - `README.md` – This file
 - `report.pdf` – Full documentation and architecture description
+- 
 
 - #
 
